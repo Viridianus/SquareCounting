@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\SquareCounting\SquareCounting\bin\Debug\SquareCounting.dll
+c:\users\dell\documents\visual studio 2015\Projects\SquareCounting\SquareCounting\bin\Debug\SquareCounting.pdb
+c:\users\dell\documents\visual studio 2015\Projects\SquareCounting\SquareCounting\obj\Debug\SquareCounting.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\SquareCounting\SquareCounting\obj\Debug\SquareCounting.dll
+c:\users\dell\documents\visual studio 2015\Projects\SquareCounting\SquareCounting\obj\Debug\SquareCounting.pdb
